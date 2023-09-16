@@ -10,7 +10,7 @@ public class Hehe {
         homepage.setVisible(true);
         homepage.setResizable(false);
         homepage.setTitle("Budget Planning");
-        homepage.setLocation(200, 75);
+        homepage.setLocation(200, 80);
 
     }
 }
